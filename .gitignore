@@ -1,0 +1,5 @@
+node_modules
+.env
+solution.js
+index.txt
+capitals.csv
